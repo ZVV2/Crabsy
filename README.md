@@ -1,9 +1,9 @@
-<center>
+<p align="center">
+    <img src="design/cragsy_logo_titled.png">
+</p>
 
-![](./design/logo_with_text_blue.svg)
+---
 
-</center>
+A robotic crab, designed as a hexapod which will be taught and controlled by AI.
 
-# Crabsy
-
-A robotic crab with some fancy features
+For further reading on the projects history and creation, read the [project log](documentation/project_log.md).
