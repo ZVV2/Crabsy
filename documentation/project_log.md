@@ -10,7 +10,7 @@ The "Crabsy" project has been elevated from a small experiment of @SamuelNoesslb
 
 ### Body and baseplate upgrades
 
-For the new AI controlled version, a first build is currently in the making, with focus on basic controlls for first tests. For that a new body was constructed, using a more enhanced baseplate, that correctly embeds all components.
+For the new AI controlled version, a first build is currently in the making, with focus on basic controls for first tests. For that a new body was constructed, using a more enhanced baseplate, that correctly embeds all components.
 
 <p align="center">
     <img src="captures/2_core_rework.PNG" width="48%" />
@@ -19,6 +19,10 @@ For the new AI controlled version, a first build is currently in the making, wit
 
 ![](captures/4_crabsy_2025_05.PNG)
 
-### New design of leg segements
+### New design of leg segments
 
-As it is common with hexapods, the last segments of the legs are rotated 90° downwards, resulting in the robot standing when all angles are set to their neutral position.
+As it is common with hexapods, the last segments of the legs are rotated 90° downwards, resulting in the robot standing when all angles are set to their neutral position. Similar to crabs, the segments have been designed to resemble shells.
+
+![](captures/5_crabsy_new_legs.PNG)
+
+## Outcome of first build
