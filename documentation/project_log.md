@@ -25,4 +25,6 @@ As it is common with hexapods, the last segments of the legs are rotated 90° do
 
 ![](captures/5_crabsy_new_legs.PNG)
 
-## Outcome of first build
+## Creating first build
+
+Firs
