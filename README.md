@@ -6,10 +6,11 @@
 
 A robotic crab, designed as a hexapod to be taught and controlled by AI.
 
-This repo contains purely the hardware (construction, electronics and related calculations). The operating system [CrabOS](https://github.com/ZVV2/CrabOS), the APis [CrabAPIs](https://github.com/ZVV2/CrabAPI) and the AI/simluation [CrabRave](https://github.com/ZVV2/CrabRave) each have their own repos.
+This repo contains purely the hardware (construction, electronics and related calculations). The operating system [CrabOS](https://github.com/ZVV2/CrabOS), the APIs [CrabAPIs](https://github.com/ZVV2/CrabAPI) and the AI/simulation [CrabRave](https://github.com/ZVV2/CrabRave) each have their own repos.
 
 <p align="center">
-    <img src="documentation/captures/5_crabsy_new_legs.PNG" width="80%">
+    <img src="documentation/captures/5_crabsy_new_legs.PNG" width="48%" />
+    <img src="documentation/pictures/9_regulator_problem.jpg" width="48%" />
 </p>
 
 

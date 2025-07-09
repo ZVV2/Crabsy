@@ -25,6 +25,31 @@ As it is common with hexapods, the last segments of the legs are rotated 90° do
 
 ![](captures/5_crabsy_new_legs.PNG)
 
-## Creating first build
+## Creating first build (2025/05/27)
 
-Firs
+First all leg segments and the baseplate have been printed out and assembled accordingly. 
+
+<p align="center">
+    <img src="pictures/1_first_legs.jpg" width="48%" />
+    <img src="pictures/3_hexapod_done_2.jpg" width="48%" />
+</p>
+
+Afterwards, the baseplate has been equipped with it's electronic components, which are:
+
+- The two PCA9685 16 channel servo controllers on top of the baseplate
+- The battery module strapped to the bottom
+
+Additionally, the next layer of the base has been attached to the passing screws, using 
+
+- An ESP32 (NodeMCU32S) and
+- A buck converter to 5V
+
+as it's electronics. The finished build looked as follows:
+
+<p align="center">
+    <img src="pictures/5_next_layer_1.jpg" width="60%" />
+</p>
+
+The design of the lower hull part worked pretty well too by being attached to the bottom base layer with screws driving into nuts that have been slotted into fitting cut-outs as it is usual for 3D-printed parts.
+
+### Issues and solution ideas for next design (2025/06/18)
