@@ -1,10 +1,21 @@
-# Project Log
+<h1>Project Log</h1>
+
+- [Restarting project (2025/05/12)](#restarting-project-20250512)
+- [Road towards first build (2025/05/26)](#road-towards-first-build-20250526)
+  - [Body and baseplate upgrades](#body-and-baseplate-upgrades)
+  - [New design of leg segments](#new-design-of-leg-segments)
+- [Creating first build (2025/05/27)](#creating-first-build-20250527)
+  - [Issues and solution ideas for next design](#issues-and-solution-ideas-for-next-design)
+    - [Battery \& Voltage supply](#battery--voltage-supply)
+    - [Motor strengths](#motor-strengths)
+- [Second build (2025/06/18)](#second-build-20250618)
 
 ## Restarting project (2025/05/12)
 
 The "Crabsy" project has been elevated from a small experiment of @SamuelNoesslboeck to a Team project to improve the quality of software and especially AI. As a first step, the repo has been moved an split up, with this repo containing only the construction and electronics from now on (everything concerning the hardware).
 
 ![Old construction state](captures/1_old_cad.PNG)
+
 
 ## Road towards first build (2025/05/26)
 
@@ -24,6 +35,7 @@ For the new AI controlled version, a first build is currently in the making, wit
 As it is common with hexapods, the last segments of the legs are rotated 90° downwards, resulting in the robot standing when all angles are set to their neutral position. Similar to crabs, the segments have been designed to resemble shells.
 
 ![](captures/5_crabsy_new_legs.PNG)
+
 
 ## Creating first build (2025/05/27)
 
@@ -47,9 +59,21 @@ Additionally, the next layer of the base has been attached to the passing screws
 as it's electronics. The finished build looked as follows:
 
 <p align="center">
-    <img src="pictures/5_next_layer_1.jpg" width="60%" />
+    <img src="pictures/5_next_layer_1.jpg" width="48%" />
+    <img src="pictures/9_regulator_problem.jpg" width="48%" />
 </p>
 
 The design of the lower hull part worked pretty well too by being attached to the bottom base layer with screws driving into nuts that have been slotted into fitting cut-outs as it is usual for 3D-printed parts.
 
-### Issues and solution ideas for next design (2025/06/18)
+### Issues and solution ideas for next design 
+
+#### Battery & Voltage supply
+
+The first major issue was the insufficient supply with power provided by the buck converters. 
+
+#### Motor strengths
+
+
+
+## Second build (2025/06/18)
+
