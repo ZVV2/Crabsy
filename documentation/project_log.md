@@ -77,3 +77,4 @@ The first major issue was the insufficient supply with power provided by the buc
 
 ## Second build (2025/06/18)
 
+In the second build, larger servo motors are used (medium sized ones). This requires quite a rework of the legs and their assembly to the baseplate. 
