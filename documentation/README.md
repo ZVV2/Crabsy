@@ -14,4 +14,3 @@ Full documentation for the Crabsy robot for the version 0.1.0/2025/05/27. For de
 ## Construction
 
 ## Electronics
-
