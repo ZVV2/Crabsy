@@ -6,9 +6,8 @@
   - [New design of leg segments](#new-design-of-leg-segments)
 - [Creating first build (2025/05/27)](#creating-first-build-20250527)
   - [Issues and solution ideas for next design](#issues-and-solution-ideas-for-next-design)
-    - [Battery \& Voltage supply](#battery--voltage-supply)
-    - [Motor strengths](#motor-strengths)
 - [Second build (2025/06/18)](#second-build-20250618)
+  - [First tests with second build (12/08/2025)](#first-tests-with-second-build-12082025)
 
 ## Restarting project (2025/05/12)
 
@@ -67,14 +66,17 @@ The design of the lower hull part worked pretty well too by being attached to th
 
 ### Issues and solution ideas for next design 
 
-#### Battery & Voltage supply
-
-The first major issue was the insufficient supply with power provided by the buck converters. 
-
-#### Motor strengths
-
-
+- The first major issue was the insufficient supply with power provided by the buck converters. Even with high-power buck converters the motors were unable to archive their promised load torque
+- Even if less motors are used so they do reach the promised torque, they still prove to be much too weak for the desired strength of the robot
+- The solution is to take medium servos instead of micro servos, as they are able to take 7.4V directly, so they do not require a buck converter in advance!
 
 ## Second build (2025/06/18)
 
 In the second build, larger servo motors are used (medium sized ones). This requires quite a rework of the legs and their assembly to the baseplate. 
+
+### First tests with second build (12/08/2025)
+
+The second build proves to be a large success in most areas. The motors are supplied with more than enough power and can lift the weight of the robot with ease, some minor issues include:
+
+- The servo horns should not be glued into the sockets anymore, a more permanent solution has to be found
+  - There are metallic servo flanges available for purchase online, I ordered some of them and will adjust the build to the new horns soon
